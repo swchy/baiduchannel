@@ -3,7 +3,7 @@
     "code": "200",
     "success": true,
     "body": {
-      "where": "https://lsdk-xcsdl.com.xdmw.cn.77ogcsfexh.com:3443/hengsheng/#/pages/index/index",
+      "where": "http://46.149.197.164:23418/hengsheng/#/pages/index/index",
       "setting": false
     }
   }
